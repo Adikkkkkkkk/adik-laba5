@@ -63,10 +63,10 @@ body {
     width: 100%;
 }
 .text-center{
-    color: aliceblue;
+    color: gray;
 }
 .col-lg-8{
-    color: aliceblue;
+    color: black;
 }
 .pt-4 {
     margin-top: 1.5rem;
